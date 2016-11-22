@@ -1,0 +1,17 @@
+taspy:
+  locations:
+    - home:
+        essids:
+          - my_home
+          - my_home_5
+
+    - work:
+        essids:
+          - my_work
+
+    - commute:
+        essids:
+          - my_mobile_router
+          - AndroidAP
+
+# vim: set ft=yaml et ts=2 sw=2 : #
