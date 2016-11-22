@@ -1,3 +1,5 @@
 .ropeproject/
 taspy.yml
 *.pyc
+dist/
+*.egg-info/
